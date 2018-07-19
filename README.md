@@ -1,8 +1,8 @@
 # ExtractDataFromObj
-js module with two function for help to extract specific data from a JSON object
-######################
+js module with two function for help to extract specific data from a JSON object /n
+###################### /n
 
-Functions for extract specific data drom JSON object, for example the response from a web-service, 
+Functions for extract specific data drom JSON object, for example the response from a web-service, /n
 
 function findValueInObj (contentObj, compareArray, newObjct = []) 
 
